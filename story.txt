@@ -1,4 +1,10 @@
 A long time ago, in a galaxy far, far away
 "more text"
+<<<<<<< HEAD
 YES Solo
+||||||| merged common ancestors
+Han Solo
+=======
+NOPE Solo
+>>>>>>> experiment
 "little bit more text"
